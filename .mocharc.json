@@ -1,0 +1,7 @@
+{
+  "extension": ["ts"],
+  "spec": "test/**/*.ts",
+  "reporter": "allure-mocha",
+  "reporterOptions": ["resultsDir=./out/allure-results"],
+  "import": "tsx"
+}
